@@ -41,7 +41,7 @@ Arguments:
 
 `--model` designates the model to train or evaluate from
 
-`--model_name` designates the specific model to train or evaluate: KPAN or KPRN
+`--model_name` designates the specific model to train or evaluate: KPAR or KPRN
 
 `--path_agg_methos` designates the way of path aggregation: attention (for cross attention) or weighted pooling
 
